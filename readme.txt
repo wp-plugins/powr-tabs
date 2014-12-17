@@ -4,7 +4,7 @@ Contributors: powr
 Donate link: http://powr.io/
 Tags: tabs, tag, navigation, navigation tab, free, custom, customize, responsive web design, personalize, optimize, customize, ecommerce, sidebar, drag and drop, WYSIWYG, product pages, sortable, collapse content, horizontal, vertical, easy-to-use, code free, content management, content tabs
 Requires at least: 3.0
-Tested up to: 4.0
+Tested up to: 4.1
 Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -23,7 +23,7 @@ To use Tabs, download and install the plugin, then add to your site as a widget 
 </blockquote>
 
 = Free Features =
-* Complete HTML control in each tab.
+* Perfect for managing content, directing shoppers, or creating product pages. Complete HTML control in each tab.
 * Custom hover and active tab effects bring your content to life.
 * Choose from expert-designed templates or take control with custom fonts, colors, backgrounds, and more.
 * Built-in support for text in any language.
