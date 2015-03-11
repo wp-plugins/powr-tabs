@@ -22,7 +22,6 @@ First, download, install, and activate POWr Tabs. Then drop the widget anywhere 
 <br>
 = <a href='http://www.powr.io/tutorials/how-to-add-tabs-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
 <br>
-
 = Free Features =
 * Perfect for managing content, directing shoppers, or creating product pages. 
 * Complete HTML control in each tab.
@@ -34,8 +33,10 @@ First, download, install, and activate POWr Tabs. Then drop the widget anywhere 
 = Upgrade ($2.99)/mo and: =
 * Eliminate all POWr logos and watermarks
 * Add unlimited Tabs.
+* Enable plugin analytics to measure visitors and page views
 * Receive premium POWr support
 * Support the development of other great plugins
+
 
 == Installation ==
 Download, install, and activate POWr Tabs.
