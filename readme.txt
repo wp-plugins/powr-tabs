@@ -38,6 +38,7 @@ First, download, install, and activate POWr Tabs. Then drop the widget anywhere 
 * Support the development of other great plugins
 
 
+
 == Installation ==
 Download, install, and activate POWr Tabs.
 <br>
