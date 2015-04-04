@@ -12,7 +12,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Organize and display any content with custom navigation tabs!
 
 == Description ==
-Organize and display any content with custom navigation tabs!
+ Organize and display any content with custom navigation tabs!
 <br>
 <br>
 POWr Tabs is a free cloud-based plugin you can edit in your live web page.  Create a POWr account to access the entire <a href='https://www.powr.io/plugins'>plugin library</a>.
