@@ -4,7 +4,7 @@ Contributors: powr
 Donate link: http://powr.io/
 Tags: tabs, tag, navigation, navigation tab, free, custom, customize, responsive web design, personalize, optimize, customize, ecommerce, sidebar, drag and drop, WYSIWYG, product pages, sortable, collapse content, horizontal, vertical, easy-to-use, code free, content management, content tabs
 Requires at least: 3.0
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -30,6 +30,7 @@ First, download, install, and activate POWr Tabs. Then drop the widget anywhere 
 * Built-in support for text in any language.
 * Mobile responsive design looks great on any device.
 <br>
+
 = Upgrade ($2.99)/mo and: =
 * Eliminate all POWr logos and watermarks
 * Add unlimited Tabs.
